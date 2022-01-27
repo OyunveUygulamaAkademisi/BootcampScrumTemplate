@@ -144,13 +144,15 @@ Decision made: Database creation task is required for the retrieval of the infor
   - Include unit tests in order to ensure robustness (This is in the backlog)
   - Come up with definition of done (We completed this in the retro and moved it to completed because we thought it was important to do quickly.)
 
--**Other**: We came up with a Definition of Done after the retro so that we know when we can close a user Story. Definition is:
-
+-**Definition of Done**:
 - All related backlog items to user story are done
 - Product owner approval
 - Acceptance criteria met for each story
 - New unit tests passed
 - No bugs introduced, all prior tests still pass
+
+-**Other Notes**:
+- N/A
 
 ---
 
