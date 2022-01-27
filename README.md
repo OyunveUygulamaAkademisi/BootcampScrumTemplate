@@ -114,10 +114,10 @@ Used points 10, 20, 30, 40, and 50 as the different size options.
 - **Kanban board link**: [Miro Board](https://miro.com/)
 
 - **Burndown chart**: Also on the same Miro Board: [Miro Board](https://miro.com/) 
-Miro doesnt keep the formatting of the burndown chart line so here are progressive screenshots of it !
-[Alt text](/ProjectManagement/Sprint1/burndown1.png?raw=true) 
-![Alt text](/ProjectManagement/Sprint1/burndown2.png?raw=true) 
-![Alt text](/ProjectManagement/Sprint1/burndown3.png?raw=true)
+Miro doesnt keep the formatting of the burndown chart line so here are progressive screenshots of it 
+![Burndown 1](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/burndown1.png) 
+![Burndown 2](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/burndown2.png) 
+![Burndown 3](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/burndown3.png)
 
 - **Daily Scrums**: Scrums were completed in our slack channel when not able to meet on weekends due to time constraints of people. Documentation of each days minutes are located in the minutes folder of our github repo. These minutes include what everyone did, what they plan to do, and what the impediments were, if any.
 [Minutes](https://github.com/mrtyson93/insurancemasters/tree/main/ProjectManagement/minutes) 
@@ -126,14 +126,16 @@ Here is a link directly to one days documentation of a scrum meeting: [Nov 11](h
 - **Impediment Removal Plan**: Swarm the impediment as a team to come up with a solution or workaround to unblock the impediment.
 
 - **Sprint board update and Burndown Updates**: Screenshots of burndown updates are above. Screenshots of board below. 
-![Alt text](/ProjectManagement/Sprint1/backlog1.png?raw=true) 
-![Alt text](/ProjectManagement/Sprint1/backlog2.png?raw=true) 
-![Alt text](/ProjectManagement/Sprint1/backlog3.png?raw=true)
+![Backlog 1](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+![Backlog 2](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
+![Backlog 3](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
 
-- **Pair programming evidence**: ![Alt text](/ProjectManagement/Sprint1/pairprogram1.png?raw=true) 
+- **Pair programming evidence**: ![Alt text](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/pairprogram1.png) 
 
 - **Working Software**: Screenshot Proof:
-  ![Alt text](/ProjectManagement/Sprint1/websiteproof.png?raw=true)
+  ![Screenshot 1](https://github.com/atilsamancioglu/ScrumBootcampTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
+  ![Screenshot 2](https://github.com/atilsamancioglu/ScrumBootcampTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+
 
 - **Sprint Review**: 
 Decision made: Database creation task is required for the retrieval of the information using the email. It is not required for form page. Moving to next sprint PBI for revisiting quotation. Part 2 held on 11/15 with the stakeholder.
