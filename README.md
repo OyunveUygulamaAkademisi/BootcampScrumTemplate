@@ -74,7 +74,7 @@ Public Repo for --Team Name-- team @ --Organization Name-- bootcamp
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/)
+[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
 
 ## Product Backlog Ordering Rationale
 
@@ -111,9 +111,9 @@ Used points 10, 20, 30, 40, and 50 as the different size options.
 - All stories are less than half of our current forecast.
 - User stories were decomposed into tasks, in our Miro board, red items are tasks, and blue items are user stories as outlined by the key.
 
-- **Kanban board link**: [Miro Board](https://miro.com/)
+- **Kanban board link**: [Miro Board](https://miro.com/app/board/uXjVOSSCpsI=/)
 
-- **Burndown chart**: Also on the same Miro Board: [Miro Board](https://miro.com/) 
+- **Burndown chart**: Also on the same Miro Board: [Miro Board](https://miro.com/app/board/uXjVOSSCpsI=/) 
 Miro doesnt keep the formatting of the burndown chart line so here are progressive screenshots of it 
 ![Burndown 1](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/burndown1.png) 
 ![Burndown 2](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/burndown2.png) 
