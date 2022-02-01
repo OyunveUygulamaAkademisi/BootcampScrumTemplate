@@ -119,9 +119,7 @@ Miro doesnt keep the formatting of the burndown chart line so here are progressi
 ![Burndown 2](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/burndown2.png) 
 ![Burndown 3](https://raw.githubusercontent.com/atilsamancioglu/ScrumBootcampTemplate/main/ProjectManagement/Sprint1Documents/burndown3.png)
 
-- **Daily Scrums**: Scrums were completed in our slack channel when not able to meet on weekends due to time constraints of people. Documentation of each days minutes are located in the minutes folder of our github repo. These minutes include what everyone did, what they plan to do, and what the impediments were, if any.
-[Minutes](https://github.com/mrtyson93/insurancemasters/tree/main/ProjectManagement/minutes) 
-Here is a link directly to one days documentation of a scrum meeting: [Nov 11](https://github.com/mrtyson93/insurancemasters/blob/main/ProjectManagement/minutes/11%20Nov%20-%20daily%20scrum.docx)
+- **Daily Scrums**: Scrums were completed in our slack channel when not able to meet on weekends due to time constraints of people. Here is a link directly to one days documentation of a scrum meeting: [Sprint 1 Daily Scrum Chats](https://github.com/atilsamancioglu/ScrumBootcampTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Impediment Removal Plan**: Swarm the impediment as a team to come up with a solution or workaround to unblock the impediment.
 
