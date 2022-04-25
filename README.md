@@ -1,37 +1,35 @@
 # **Takım İsmi**
 
-Takım X
+Takım 20
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Merve Aydın: Product Owner
+- Azra Jeral: Scrum Master
+- Ahmet İzzet Sayın: Team Member/Developer
+- Umutcan Ceyhan: Team Member/Developer
+- Erdem Altun: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+Kapış Kapış
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- Kapış kapış uygulamamız ile sınava hazırlanan öğrencilerin soru çözme sürecine oyunlaştırma ve rekabet katarak bu süreci eğlence hale getirmeyi amaçlıyoruz. İçerisinde sınava hazırlık soruları barındıracak uygulamamız öğrencilere yanlarında soru çözüm kitabı taşımadan soru çözme imkanı veriyor.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Farklı markaların sorularına dijital ortamda ulaşabilme
+- Soru çözerek kazanılan puanlarla oluşturulan liderlik tablosunu görüntüleme
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Ortaokul öğrencileri
+- Sınava tekrar hazırlanan öğrenciler
+- Lise öğrencileri
 
 ## Product Backlog URL
 
