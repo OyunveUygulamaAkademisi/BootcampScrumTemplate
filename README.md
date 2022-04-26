@@ -1,14 +1,16 @@
 # **Takım İsmi**
 
-Takım X
+Takım-161
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Miraç Burak Biçici: Product Owner
+- Şevval Hazan Âşık: Scrum Master
+- Busenur Beyza Birinci: Team Member/Developer
+- Serdar Emin Polat: Team Member/Developer
+- Şevval Ok: Team Member/Developer
 
 ## Ürün İsmi
 
