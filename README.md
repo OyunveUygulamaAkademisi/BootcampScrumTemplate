@@ -29,10 +29,6 @@ Takım-161
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
 - 15 - 65 yaş arası kullanıcılar
 
 ## Product Backlog URL
