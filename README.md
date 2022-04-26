@@ -14,11 +14,11 @@ Takım 20
 
 ## Ürün İsmi
 
-Kapış Kapış
+YaBiKa (Yarış - Bil - Kazan)
 
 ## Ürün Açıklaması
 
-- Kapış kapış uygulamamız ile sınava hazırlanan öğrencilerin soru çözme sürecine oyunlaştırma ve rekabet katarak bu süreci eğlence hale getirmeyi amaçlıyoruz. İçerisinde sınava hazırlık soruları barındıracak uygulamamız öğrencilere yanlarında soru çözüm kitabı taşımadan soru çözme imkanı veriyor.
+- YaBiKa ile sınava hazırlanan öğrencilerin soru çözme sürecine oyunlaştırma ve rekabet katarak bu süreci eğlence hale getirmeyi amaçlıyoruz. İçerisinde sınava hazırlık soruları barındıracak uygulamamız öğrencilere yanlarında soru çözüm kitabı taşımadan soru çözme imkanı veriyor.
 
 ## Ürün Özellikleri
 
