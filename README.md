@@ -14,26 +14,29 @@ Takım-161
 
 ## Ürün İsmi
 
---Movie App--
+
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- Genç girişimcilerin ekosisteme girerken mentorluk ihtiyacı duyması, yaşadıkları problemlerin çözümü için bir yol arayışı içinde olmaları gibi problemlere çözüm niteliğindeki uygulamamız, girişimcileri ve mentorleri kolaylıkla bir araya getirebilme imkanı sunacaktır.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Kullanıcı uygulama üzerinden danışmanlık almak istediği konuyu kısaca açıklar ve kendisine uygun bir zaman dilimi belirler.
+- 24 saat içerisinde uygulamada mentor olarak yer alan kullanıcılar tarafından talebi karşılanır. 
+- Uygulamanın sadece bu iki kişiyi bir araya getirecek bir platform olarak tasarlanması hedeflenmektedir. 
+- Görüşme için mesajlaşma bölümü üzerinden link paylaşımı yapılabilir (zoom, google meet vb.) 
+- Kullanıcı giriş yapmadan uygulamada hizmet veren mentorlar hakkında bilgi alabilir ve blog yazılarını okuyabilir. 
+- Kunduz uygulamasının girişimici-mentor uyarlaması olarak düşünülebilir. 
+
 
 ## Hedef Kitle
 
-- 15 - 65 yaş arası kullanıcılar
+- 15-60 yaşa aralığında bulunan, girişimcilik ekosistemine dair soruları olan, kendi işini kurmak isteyen ve çeşitli alanlarda danışmanlık almak isteyen insanlar
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Trello Backlog Board](https://trello.com/161130)
 
 ---
 
