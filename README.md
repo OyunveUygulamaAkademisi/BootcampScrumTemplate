@@ -6,9 +6,11 @@ Bootcamp 192
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Sibel Güleş: Product Owner
+- Azim Güneş: Scrum Master
+- Ceren Yaşa: Team Member/Developer
+- Fatma Nur Zehra Çaçan: Team Member/Developer
+- Melike Sena Yurdakul: Team Member/Developer
 
 ## Ürün İsmi
 
