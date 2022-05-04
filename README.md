@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Takım X
+Bootcamp 192
 
 # Ürün İle İlgili Bilgiler
 
