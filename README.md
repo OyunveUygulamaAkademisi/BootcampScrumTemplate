@@ -41,6 +41,9 @@ Mentor Wise
 
 [Drive](https://drive.google.com/drive/u/7/my-drive)
 
+
+[Figma (Ürün Tasarımları)](https://drive.google.com/drive/u/7/my-drive)
+
 ---
 
 # Sprint 1
