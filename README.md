@@ -37,12 +37,13 @@ Mentor Wise
 ## Product Backlog URL
 
 [Trello Backlog Board](https://trello.com/161130)
+[Drive](https://drive.google.com/drive/u/7/my-drive)
 
 ---
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir. Yapılan çalışmalardaki ilerlemeler Drive içerisinde bulunan "Linkler" adlı dosyadan incelenebilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
@@ -74,7 +75,7 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
   - Unit test'ler için ayrılan efor/saat arttırılmalı 
 
 -**Diğer Notlar**:
-- N/A
+- 
 
 ---
 
