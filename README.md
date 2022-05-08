@@ -58,7 +58,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://drive.google.com/drive/u/7/folders/1Z8IL73O8iDtJWdGc5-wIVijlpDKhWq_K) 
 ![Backlog 2](https://drive.google.com/drive/u/7/folders/1Z8IL73O8iDtJWdGc5-wIVijlpDKhWq_K) 
-![Backlog 3]
+
 
 - **Ürün Durumu**: Ekran görüntüleri:
 ![urun 1](https://drive.google.com/drive/u/7/folders/1Z8IL73O8iDtJWdGc5-wIVijlpDKhWq_K)
