@@ -27,7 +27,7 @@ Mentor Wise
 - Uygulamanın sadece bu iki kişiyi bir araya getirecek bir platform olarak tasarlanması hedeflenmektedir. 
 - Görüşme için mesajlaşma bölümü üzerinden link paylaşımı yapılabilir (zoom, google meet vb.) 
 - Kullanıcı giriş yapmadan uygulamada hizmet veren mentorlar hakkında bilgi alabilir ve blog yazılarını okuyabilir. 
-- Kunduz uygulamasının girişimici-mentor uyarlaması olarak düşünülebilir. 
+- Kunduz uygulamasının girişimci-mentor uyarlaması olarak düşünülebilir. 
 
 
 ## Hedef Kitle
