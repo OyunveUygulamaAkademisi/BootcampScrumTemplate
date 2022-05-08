@@ -48,7 +48,7 @@ Mentor Wise
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir. Yapılan çalışmalardaki ilerlemeler Drive içerisinde bulunan "Linkler" adlı dosyadan incelenebilir.
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir. Yapılan çalışmalardaki ilerlemeler Drive içerisinde bulunan "Linkler" adlı dosyadan incelenebilir. Sprint ile ilgili tüm detaylar Drive linkindeki Scrum dosyasında belirtilmiştir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
