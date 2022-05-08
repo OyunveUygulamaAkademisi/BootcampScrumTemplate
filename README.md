@@ -33,7 +33,7 @@ YaBiKa (Yarış - Bil - Kazan)
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Trello Backlog Board](https://trello.com/b/xg7op440/flutter-20)
 
 ---
 
