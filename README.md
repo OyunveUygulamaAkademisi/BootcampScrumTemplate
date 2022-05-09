@@ -73,10 +73,15 @@ Mentor Wise
 - **Sprint Review**: 
 - Sprint Review toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum" dosyasında yer almaktadır.
 Alınan kararlar: 
-	Son yapılan tasarımlar üzerinden değerlendirme yapılmış, karar süreci başlamıştır..
+
+	Son yapılan tasarımlar üzerinden değerlendirme yapılmış, karar süreci başlamıştır.
+
 	Flutter ile yapılmış örnek projeler incelenecektir.
+
 	Scrum, prodoct backlog, user story ile ilgili araştırmalar toplanacaktır.
+
 	Sprint retrospective toplantısı için tarih kararlaştırılmıştır.
+
 
 
 Sprint Review katılımcıları: Tüm Takım Üyeleri
@@ -84,21 +89,27 @@ Sprint Review katılımcıları: Tüm Takım Üyeleri
 - **Sprint Retrospective:**
 
 İşleri nasıl yapıyoruz?
+
 	Hafta başında toplanarak yapılması gereken işleri tartışıyor ve öncelik sırasını belirliyoruz. Daha sonra scrum dosyasında belirtilen rollerine göre görevlerin ekip üyelerine atamasını gerçekleştiriyoruz, görevi tamamlayan ekip üyesi sonuçları ekip ile paylaşıyor.
 
 Eksiğimiz var mı?
+
 	Etkinlik takımın ilk profesyonel proje deneyimi olduğu için scrum ve geliştirme konusunda aksaklıklar yaşanabilmektedir, takım olarak araştırmalar yaparak sorunun çözümü için öneriler sunmaktayız.
 
 Doğru gidiyor muyuz?
+
 	Evet takım olarak program kılavuzu ve takvimi ile uyumlu bir çalışma sürdürmekteyiz.
 
 Neyi iyi yapıyoruz?
+
 	Takım olarak iletişim kanallarını aktif ve verimli kullanıyoruz, ayrıca problem çözme becerisi yüksek bir takımız.
 
 Neyi kötü yapıyoruz?
+
 	Karar alma süreçlerinde gecikmeler yaşayabiliyoruz bu durum ilerleyen zamanlarda takvime uyum sağlamamızı zorlaştırabilir.
 
 Neyi durdurmalıyız?
+
 	Karar alma süreçlerini daha hızlı hale getirebilmek için ilk sprintlerde detay niteliğinde olan konuları tartışmayı durdurmalıyız, önceliklerimizi tekrardan gözden geçirmeliyiz ve sonraki sprintlerde buna göre bir çalışma yapmalıyız.
 
   - Süreç içerisinde yapılan tüm tasarımların gözden geçirilmesi ve takımca ortak bir kararla sürece devam edilmesi kararı alınmıştır.
