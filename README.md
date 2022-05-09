@@ -87,26 +87,32 @@ Alınan kararlar:
 Sprint Review katılımcıları: Tüm Takım Üyeleri
 
 - **Sprint Retrospective:**
+- 
 
 İşleri nasıl yapıyoruz?
 
 	Hafta başında toplanarak yapılması gereken işleri tartışıyor ve öncelik sırasını belirliyoruz. Daha sonra scrum dosyasında belirtilen rollerine göre görevlerin ekip üyelerine atamasını gerçekleştiriyoruz, görevi tamamlayan ekip üyesi sonuçları ekip ile paylaşıyor.
 
+
 Eksiğimiz var mı?
 
 	Etkinlik takımın ilk profesyonel proje deneyimi olduğu için scrum ve geliştirme konusunda aksaklıklar yaşanabilmektedir, takım olarak araştırmalar yaparak sorunun çözümü için öneriler sunmaktayız.
+
 
 Doğru gidiyor muyuz?
 
 	Evet takım olarak program kılavuzu ve takvimi ile uyumlu bir çalışma sürdürmekteyiz.
 
+
 Neyi iyi yapıyoruz?
 
 	Takım olarak iletişim kanallarını aktif ve verimli kullanıyoruz, ayrıca problem çözme becerisi yüksek bir takımız.
 
+
 Neyi kötü yapıyoruz?
 
 	Karar alma süreçlerinde gecikmeler yaşayabiliyoruz bu durum ilerleyen zamanlarda takvime uyum sağlamamızı zorlaştırabilir.
+
 
 Neyi durdurmalıyız?
 
