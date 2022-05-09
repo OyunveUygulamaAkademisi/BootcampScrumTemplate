@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>670368804598-r6lqv1vm319ssgpbb2eqsn8sn82ehr7p.apps.googleusercontent.com</string>
+	<string>547020794052-7j26agb33hg2hsbv8m16k754nsu9uf0f.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.670368804598-r6lqv1vm319ssgpbb2eqsn8sn82ehr7p</string>
+	<string>com.googleusercontent.apps.547020794052-7j26agb33hg2hsbv8m16k754nsu9uf0f</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCkolW5mmu3MMpxdNE6oTht_DPE8KJGGlk</string>
+	<string>AIzaSyBPVNF8BUEOKt2O5hxVURK-VMGrWkggV-4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>670368804598</string>
+	<string>547020794052</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.oua.swapy</string>
 	<key>PROJECT_ID</key>
-	<string>swapy-dd00b</string>
+	<string>swapy-fd548</string>
 	<key>STORAGE_BUCKET</key>
-	<string>swapy-dd00b.appspot.com</string>
+	<string>swapy-fd548.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:670368804598:ios:d1e47313021cc4613ac6d7</string>
+	<string>1:547020794052:ios:3b041ecd501d0558e1c191</string>
 </dict>
 </plist>

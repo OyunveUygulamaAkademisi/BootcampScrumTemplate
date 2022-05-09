@@ -16,7 +16,7 @@ class NavigationService {
       navigationKey.currentState
           ?.pushReplacementNamed(routeName, arguments: arg);
 
-  void navigateBack(String routeName, {arg}) =>
+  void navigateBack({dynamic arg}) =>
       navigationKey.currentState?.pop(arg);
 
   Future<Object?>? navigateToRemoveUntil(String routeName, {arg}) =>

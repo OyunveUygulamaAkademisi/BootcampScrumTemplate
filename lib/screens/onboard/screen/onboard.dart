@@ -45,7 +45,7 @@ class Onboard extends StatelessWidget {
                 children: [
                   ElevatedButton(
                     onPressed: () => NavigationService.instance
-                        .navigateTo(AppRouter.login),
+                        .navigateReplacement(AppRouter.login),
                     child: Text('Giriş Yap'),
                     style: ButtonStyle(
                         padding: MaterialStateProperty.all(
@@ -61,7 +61,8 @@ class Onboard extends StatelessWidget {
                         )))),
                   ),
                   ElevatedButton(
-                    onPressed: () {},
+                    onPressed: () => NavigationService.instance
+                        .navigateReplacement(AppRouter.register),
                     child: Text(
                       'Kayıt Ol',
                       style: theme.textTheme.button

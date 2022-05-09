@@ -74,6 +74,42 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "firebase_auth",
+      "rootUri": "file:///Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.17",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_auth_platform_interface",
+      "rootUri": "file:///Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_platform_interface-6.2.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_auth_web",
+      "rootUri": "file:///Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.14",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core",
+      "rootUri": "file:///Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.16.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-4.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///Users/cerenyasa/sdk/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -88,6 +124,12 @@
     {
       "name": "flutter_test",
       "rootUri": "file:///Users/cerenyasa/sdk/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/cerenyasa/sdk/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -110,8 +152,20 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "intl",
+      "rootUri": "file:///Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "ionicons",
       "rootUri": "file:///Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/ionicons-0.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -302,7 +356,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-05-08T19:39:51.195415Z",
+  "generated": "2022-05-09T18:21:45.100834Z",
   "generator": "pub",
   "generatorVersion": "2.16.2"
 }

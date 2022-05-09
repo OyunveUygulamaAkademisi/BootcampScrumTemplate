@@ -168,7 +168,7 @@ final ThemeData swapyLightTheme = ThemeData(
     ),
     caption: TextStyle(
       color: customTextColor,
-      fontSize: null,
+      fontSize: 12,
       fontWeight: FontWeight.w400,
       fontStyle: FontStyle.normal,
     ),
@@ -354,7 +354,7 @@ final ThemeData swapyLightTheme = ThemeData(
     ),
     helperStyle: TextStyle(
       color: customTextColor,
-      fontSize: null,
+      fontSize: 16,
       fontWeight: FontWeight.w400,
       fontStyle: FontStyle.normal,
     ),

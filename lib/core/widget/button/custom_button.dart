@@ -4,18 +4,24 @@ class CustomButton extends StatelessWidget {
   final bool isExpand;
   final String? text;
   final Widget? child;
-  const CustomButton({Key? key, this.isExpand = true, this.text, this.child}) : super(key: key);
+  final VoidCallback? onTap;
+
+  const CustomButton(
+      {Key? key, this.isExpand = true, this.text, this.child, this.onTap})
+      : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return isExpand ? SizedBox(
-      width: MediaQuery.of(context).size.width,
-      child: button,
-    ) : button;
+    return isExpand
+        ? SizedBox(
+            width: MediaQuery.of(context).size.width,
+            child: button,
+          )
+        : button;
   }
 
   ElevatedButton get button => ElevatedButton(
-      onPressed: () {},
+      onPressed: onTap,
       child: child ?? Text(text ?? ''),
       style: ButtonStyle(
           padding:

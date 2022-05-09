@@ -1,4 +1,8 @@
 # This is a generated file; do not edit or check into version control.
+firebase_auth=/Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.17/
+firebase_auth_web=/Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.14/
+firebase_core=/Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.16.0/
+firebase_core_web=/Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.3/
 path_provider=/Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.4/
 path_provider_linux=/Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.5/
 path_provider_macos=/Users/cerenyasa/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.5/
