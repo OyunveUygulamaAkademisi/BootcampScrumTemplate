@@ -74,7 +74,7 @@ Mentor Wise
 
 
 - **Sprint Review**: 
-- Sprint Review toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum" dosyasında yer almaktadır.
+Sprint Review toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum" dosyasında yer almaktadır.
 
 
 Alınan kararlar: 
