@@ -71,6 +71,14 @@ Mentor Wise
 
 
 
+- **Burndown Grafiği**: 
+
+Miro Board'da puanlamaya göre Burndown Grafiği biçimlendirilmesi yapılmıştır. Aşağıda ekran görüntüleri mevcuttur.
+
+[Burndown](https://drive.google.com/drive/u/7/folders/1Z8IL73O8iDtJWdGc5-wIVijlpDKhWq_K)
+
+
+
 - **Ürün Durumu**: Ekran görüntüleri:
 [Ürün Giriş Ekranı](https://drive.google.com/drive/u/7/folders/1Z8IL73O8iDtJWdGc5-wIVijlpDKhWq_K)
 
