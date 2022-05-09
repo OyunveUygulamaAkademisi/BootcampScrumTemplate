@@ -70,8 +70,11 @@ Mentor Wise
 [Ürün Giriş Ekranı](https://drive.google.com/drive/u/7/folders/1Z8IL73O8iDtJWdGc5-wIVijlpDKhWq_K)
 
 
+
 - **Sprint Review**: 
 - Sprint Review toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum" dosyasında yer almaktadır.
+
+
 Alınan kararlar: 
 
 	Son yapılan tasarımlar üzerinden değerlendirme yapılmış, karar süreci başlamıştır.
@@ -86,8 +89,10 @@ Alınan kararlar:
 
 Sprint Review katılımcıları: Tüm Takım Üyeleri
 
+
+
 - **Sprint Retrospective:**
-- 
+
 
 İşleri nasıl yapıyoruz?
 
