@@ -78,7 +78,7 @@ Alınan kararlar: Veritabanı oluşturması için açık kaynak araştırılmas�
 
 # Sprint 2
 
-
+ 
 ---
 
 # Sprint 3
