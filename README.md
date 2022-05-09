@@ -80,7 +80,8 @@ Miro Board'da puanlamaya göre Burndown Grafiği biçimlendirilmesi yapılmışt
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-[Ürün Giriş Ekranı](https://drive.google.com/drive/u/7/folders/1Z8IL73O8iDtJWdGc5-wIVijlpDKhWq_K)
+![Ürün Giriş Ekranı](https://github.com/bootcamp161/Team-161/blob/d2fe0ac68eaf0cd8b041562d1a94dc085ed56f0f/ProjectManagement/Sprint1Documents/log_in.jpeg)
+![Ürün Kayıt Ol Ekranı](https://github.com/bootcamp161/Team-161/blob/d2fe0ac68eaf0cd8b041562d1a94dc085ed56f0f/ProjectManagement/Sprint1Documents/sign_in.jpeg)
 
 
 
