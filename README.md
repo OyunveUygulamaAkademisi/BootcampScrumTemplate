@@ -65,9 +65,9 @@ Mentor Wise
 
 
 - **Sprint board update**: Sprint board screenshotları: 
-[Backlog 1](https://drive.google.com/drive/u/7/folders/1Z8IL73O8iDtJWdGc5-wIVijlpDKhWq_K)
-[Backlog 2](https://drive.google.com/drive/u/7/folders/1Z8IL73O8iDtJWdGc5-wIVijlpDKhWq_K)
-[Backlog 3](https://drive.google.com/drive/u/7/folders/1Z8IL73O8iDtJWdGc5-wIVijlpDKhWq_K)
+[Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/p.backlog1.png)
+[Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/p.backlog2.png)
+[Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/p.backlog3.png)
 
 
 
