@@ -71,7 +71,7 @@ Alınan kararlar: Veritabanı oluşturması için açık kaynak araştırılmas�
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Görev alamayacak kişi baz alınarak iş yükü arttılırdı.
   - Puan tahmini başarıyla sonuçlandı hedeflenen puana ulaşıldı.
-  - 2. Sprint görev dağılımı yapıldı ve hedefler belirlendi.
+  - Sprint görev dağılımı yapıldı ve hedefler belirlendi.
 
 
 ---
