@@ -71,6 +71,8 @@ Mentor Wise
 
 
 
+
+
 - **Sprint Review**: 
 - Sprint Review toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum" dosyasında yer almaktadır.
 
@@ -88,6 +90,8 @@ Alınan kararlar:
 
 
 Sprint Review katılımcıları: Tüm Takım Üyeleri
+
+
 
 
 
@@ -129,6 +133,8 @@ Neyi durdurmalıyız?
   - Yapılan tasarımlar, örnek kodlar ve uygulamaya yönelik hazırlanan kodlar ile geliştirme sürecine başlama kararı alınmıştır.
 
   Sprint Retrospective katılımcıları: Tüm Takım Üyeleri
+
+
 
 -**Diğer Notlar**:
 - 
