@@ -39,6 +39,9 @@ Mentor Wise
 [Trello Backlog Board](https://trello.com/161130)
 
 
+[Miro Backlog Board](https://miro.com/app/board/uXjVO2CgqXM=/)
+
+
 [Drive](https://drive.google.com/drive/u/7/my-drive)
 
 
