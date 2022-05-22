@@ -172,12 +172,18 @@ Neyi durdurmalıyız?
 
 - **Sprint board update**: Sprint board screenshotları: 
 
+	
+
+	
 
 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
+	
+
+	
 
 
 
@@ -188,13 +194,13 @@ Sprint Review toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum
 
 Alınan kararlar: 
 
-	Son yapılan tasarımlar üzerinden değerlendirme yapılmış, karar süreci başlamıştır.
+	
 
-	Flutter ile yapılmış örnek projeler incelenecektir.
+	
 
-	Scrum, prodoct backlog, user story ile ilgili araştırmalar toplanacaktır.
+	
 
-	Sprint retrospective toplantısı için tarih kararlaştırılmıştır.
+	
 
 
 
@@ -209,25 +215,45 @@ Sprint Review katılımcıları: Tüm Takım Üyeleri
 
 İşleri nasıl yapıyoruz?
 
+	
+
+	
 
 
 Eksiğimiz var mı?
 
+	
+
+	
 
 
 Doğru gidiyor muyuz?
 
+	
+
+	
 
 
 Neyi iyi yapıyoruz?
 
+	
+
+	
 
 
 Neyi kötü yapıyoruz?
 
+	
+
+	
 
 
 Neyi durdurmalıyız?
+
+	
+
+	
+
 
   Sprint Retrospective katılımcıları: Tüm Takım Üyeleri
 
