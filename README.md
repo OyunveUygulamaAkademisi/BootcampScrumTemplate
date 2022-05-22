@@ -85,6 +85,21 @@ Miro Board'da puanlamaya göre Burndown Grafiği biçimlendirilmesi yapılmışt
 
 
 
+- **Sprint Planning**: 
+Sprint Planning toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum" dosyasında yer almaktadır.
+
+
+Alınan kararlar: 
+
+	Uygulamanın temelleri atıldı. 
+	Uygulama geliştirme üzerine fikirler toplandı. 
+	Uygulamanın detayları belirlendi.
+	Görev paylaşımı yapıldı. 
+	Uygulamanın temel işlevleri yapıldıktan sonra geliştirilebilecek yeni özellikler belirlendi.
+
+
+Sprint Planning katılımcıları: Tüm Takım Üyeleri
+
 
 
 - **Sprint Review**: 
@@ -94,11 +109,8 @@ Sprint Review toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum
 Alınan kararlar: 
 
 	Son yapılan tasarımlar üzerinden değerlendirme yapılmış, karar süreci başlamıştır.
-
 	Flutter ile yapılmış örnek projeler incelenecektir.
-
 	Scrum, prodoct backlog, user story ile ilgili araştırmalar toplanacaktır.
-
 	Sprint retrospective toplantısı için tarih kararlaştırılmıştır.
 
 
@@ -186,6 +198,23 @@ Neyi durdurmalıyız?
 	
 
 
+- **Sprint Planning**: 
+Sprint Planning toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum" dosyasında yer almaktadır.
+
+
+Alınan kararlar: 
+
+ Bir önceki Sprint için yapılan retrospective toplantısı ile birlikte yeni Sprint için planning toplantısı yapıldı.
+ Yeni sprint içerisinde sürecin nasıl ilerleyeceği hakkında konuşuldu, kararlar alındı.
+ Sprintte yapılacak iş Sprint Planlama toplantısında planlandı. Tüm Scrum takımı planı birlikte oluşturuldu.
+ “Başlayan Sprintte Ürün Parçası olarak ne teslim edilebilir?” ve “Ürün Parçasını teslim etmek için gerekli olan iş nasıl başarılacak?” soruları üzerine konuşuldu.
+ Yapılan tasarımlar, örnek kodlar ve uygulamaya yönelik hazırlanan kodlar ile geliştirme sürecine başlama kararı alındı.
+ Sprint boyunca geliştirilecek fonksiyonlar belirlendi.
+ Ürün İş Listesi kalemleri tartışılmıştır. Tüm Scrum Takımı Sprintin işini anlamak üzere birlikte çalışmıştır.
+
+
+Sprint Planning katılımcıları: Tüm Takım Üyeleri
+
 
 
 - **Sprint Review**: 
@@ -194,13 +223,13 @@ Sprint Review toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum
 
 Alınan kararlar: 
 
-	
-
-	
-
-	
-
-	
+	Son yapılan tasarımlar üzerinden değerlendirme yapıldı.
+ Uygulamanın bir kısmını oluşturacak chat bölümüne yönelik araştırma yapılması ve paylaşılması kararlaştırıldı.
+ Farklı tasarımlara göre oluşturulan flutter kodunda güncellemeler yapıldı.
+ Blog yazısı üzerine tartışıldı.
+ Uygulamanın tasarımsal temasına karar verildi.
+ Belirlenen tema üzerinden tasarlanan arayüzler değerlendirildi.
+ Uygulama dilinin Türkçe olmasına karar verildi.
 
 
 
