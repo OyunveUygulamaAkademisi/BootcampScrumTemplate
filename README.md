@@ -171,17 +171,12 @@ Neyi durdurmalıyız?
 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/bootcamp161/Team-161/blob/5c04d43beeccc7e63e76b8a2dc140e77cd90e8a8/ProjectManagement/Sprint1Documents/p.backlog1.png)
-![Backlog 2](https://github.com/bootcamp161/Team-161/blob/5c04d43beeccc7e63e76b8a2dc140e77cd90e8a8/ProjectManagement/Sprint1Documents/p.backlog2.png)
-![Backlog 3](https://github.com/bootcamp161/Team-161/blob/5c04d43beeccc7e63e76b8a2dc140e77cd90e8a8/ProjectManagement/Sprint1Documents/p.backlog3.jpeg)
 
 
 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![Ürün Giriş Ekranı](https://github.com/bootcamp161/Team-161/blob/d2fe0ac68eaf0cd8b041562d1a94dc085ed56f0f/ProjectManagement/Sprint1Documents/log_in.jpeg)
-![Ürün Kayıt Ol Ekranı](https://github.com/bootcamp161/Team-161/blob/d2fe0ac68eaf0cd8b041562d1a94dc085ed56f0f/ProjectManagement/Sprint1Documents/sign_in.jpeg)
 
 
 
@@ -214,37 +209,25 @@ Sprint Review katılımcıları: Tüm Takım Üyeleri
 
 İşleri nasıl yapıyoruz?
 
-	Hafta başında toplanarak yapılması gereken işleri tartışıyor ve öncelik sırasını belirliyoruz. Daha sonra scrum dosyasında belirtilen rollerine göre görevlerin ekip üyelerine atamasını gerçekleştiriyoruz, görevi tamamlayan ekip üyesi sonuçları ekip ile paylaşıyor.
 
 
 Eksiğimiz var mı?
 
-	Etkinlik takımın ilk profesyonel proje deneyimi olduğu için scrum ve geliştirme konusunda aksaklıklar yaşanabilmektedir, takım olarak araştırmalar yaparak sorunun çözümü için öneriler sunmaktayız.
 
 
 Doğru gidiyor muyuz?
 
-	Evet takım olarak program kılavuzu ve takvimi ile uyumlu bir çalışma sürdürmekteyiz.
 
 
 Neyi iyi yapıyoruz?
 
-	Takım olarak iletişim kanallarını aktif ve verimli kullanıyoruz, ayrıca problem çözme becerisi yüksek bir takımız.
 
 
 Neyi kötü yapıyoruz?
 
-	Karar alma süreçlerinde gecikmeler yaşayabiliyoruz bu durum ilerleyen zamanlarda takvime uyum sağlamamızı zorlaştırabilir.
 
 
 Neyi durdurmalıyız?
-
-	Karar alma süreçlerini daha hızlı hale getirebilmek için ilk sprintlerde detay niteliğinde olan konuları tartışmayı durdurmalıyız, önceliklerimizi tekrardan gözden geçirmeliyiz ve sonraki sprintlerde buna göre bir çalışma yapmalıyız.
-
-  - Süreç içerisinde yapılan tüm tasarımların gözden geçirilmesi ve takımca ortak bir kararla sürece devam edilmesi kararı alınmıştır.
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Yapılan tasarımlar, örnek kodlar ve uygulamaya yönelik hazırlanan kodlar ile geliştirme sürecine başlama kararı alınmıştır.
 
   Sprint Retrospective katılımcıları: Tüm Takım Üyeleri
 
