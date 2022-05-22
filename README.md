@@ -167,7 +167,7 @@ Neyi durdurmalıyız?
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp takım grubu üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf ve word olarak Drive linkindeki klasörde tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://drive.google.com/drive/u/7/folders/1Z8IL73O8iDtJWdGc5-wIVijlpDKhWq_K)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp takım grubu üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf ve word olarak Drive linkindeki klasörde tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]((https://drive.google.com/drive/u/7/folders/1OEkxZ2XEorg-6L4gIC3l8YJk5ghEjuTe))
 
 
 - **Sprint board update**: Sprint board screenshotları: 
