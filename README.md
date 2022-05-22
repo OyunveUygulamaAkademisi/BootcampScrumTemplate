@@ -129,7 +129,7 @@ Sprint Review katılımcıları: Tüm Takım Üyeleri
 
 
 - **Sprint Retrospective:**
-
+Sprint Retrospective toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum" dosyasında yer almaktadır.
 
 İşleri nasıl yapıyoruz?
 
@@ -259,7 +259,7 @@ Sprint Review katılımcıları: Tüm Takım Üyeleri
 
 
 - **Sprint Retrospective:**
-
+Sprint Retrospective toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum" dosyasında yer almaktadır.
 
 İşleri nasıl yapıyoruz?
 
