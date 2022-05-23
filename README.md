@@ -269,44 +269,44 @@ Sprint Retrospective toplantısı ayrıntıları Drive linki içerisindeki "Dail
 
 İşleri nasıl yapıyoruz?
 
-	
+	Takımımız hafta başında toplanarak yapılması gereken görevleri gündeme getiriyor ve görevler için bir teslim tarihi belirliyor. Daha sonra scrum dosyasında belirtilen rollerine göre görevlerin ekip üyelerine atamasını gerçekleştiriryoruz, görevi tamamlayan ekip üyesi sonuçları ekip ile paylaşıyor. Scrum dosyaları ve trello sürekli olarak güncel tutularak sürecin verimli ilerlemesi sağlanıyor
 
-	
+
 
 
 Eksiğimiz var mı?
 
-	
+	Uygulamamızda yer alan firebase tabanlı chat bölümü ile ilgili eksikliklerimizi belirledik ve takım olarak araştırmalar yaparak eksikliklerin giderilmesine katkı sağlamaktayız. 
 
-	
+
 
 
 Doğru gidiyor muyuz?
 
-	
+	Evet asistanlarımızla sürekli olarak iletişim halindeyiz onların onay ve önerileri doğrultusunda süreci ilerletiyoruz. 
 
-	
+
+
 
 
 Neyi iyi yapıyoruz?
 
-	
+	Takım olarak iletişim kanallarını aktif ve verimli kullanıyoruz, asistanımız ile sürekli iletişim halindeyiz. Takım içi aksaklıklar için hızlı önlemler alarak sorunların çözümü için toplantılar düzenliyoruz.
 
-	
 
 
 Neyi kötü yapıyoruz?
 
-	
+	Takımın ilk profesyonel proje deneyimi olması nedeniyle görev atamalarında eksikliklerimiz oldu. Süreç ilerledikçe görev tanımlarımızın çok net olmadığını fark ettik bu durumu düzeltmek için bir toplantı düzenledik ve gerekli düzenlemeleri yaptık.    
 
-	
+
 
 
 Neyi durdurmalıyız?
 
-	
+	Son sprinte başlarken bizi yavaşlatacağını düşündüğümüz tüm aksiyonlarımızı gözden geçirmeliyiz ve durdurmalıyız, sürecin verimli bir şekilde ilerlemesi için önceliklerimizi net bir şekilde tekrar gözden geçirmeliyiz
 
-	
+
 
 
   Sprint Retrospective katılımcıları: Tüm Takım Üyeleri
