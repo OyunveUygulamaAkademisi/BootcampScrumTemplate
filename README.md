@@ -80,10 +80,11 @@ Miro Board'da puanlamaya göre Burndown Grafiği biçimlendirilmesi yapılmışt
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![Ürün Giriş Ekranı](https://github.com/bootcamp161/Team-161/blob/d2fe0ac68eaf0cd8b041562d1a94dc085ed56f0f/ProjectManagement/Sprint1Documents/log_in.jpeg)
-![Ürün Kayıt Ol Ekranı](https://github.com/bootcamp161/Team-161/blob/d2fe0ac68eaf0cd8b041562d1a94dc085ed56f0f/ProjectManagement/Sprint1Documents/sign_in.jpeg)
 
-
+<p float="left">
+<img src = "ProjectManagement/Sprint1Documents/log_in.jpeg" width = 500, height= 800 > 
+<img src = "ProjectManagement/Sprint1Documents/sign_in.jpeg" width = 500, height= 800 >
+</p>  
 
 - **Sprint Planning**: 
 Sprint Planning toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum" dosyasında yer almaktadır.
@@ -199,10 +200,13 @@ Neyi durdurmalıyız?
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-
-![welcomepage](https://github.com/bootcamp161/Team-161/blob/main/ProjectManagement/Sprint1Documents/2nd%20Sprint%20Pages/welcome_page.jpeg)
-
-![generallogin](https://github.com/bootcamp161/Team-161/blob/main/ProjectManagement/Sprint1Documents/2nd%20Sprint%20Pages/general_login.jpeg)
+<p float="left">
+<img src = "ProjectManagement/Sprint1Documents/2nd%20Sprint%20Pages/welcome_page.jpeg" width = 500, height= 800 > 
+<img src = "ProjectManagement/Sprint1Documents/2nd%20Sprint%20Pages/general_login.jpeg" width = 500, height= 800 >
+  <img src = "ProjectManagement/Sprint1Documents/2nd%20Sprint%20Pages/login_page.jpeg" width = 500, height= 800 >
+  <img src = "ProjectManagement/Sprint1Documents/2nd%20Sprint%20Pages/signup_page.jpeg" width = 500, height= 800 >
+  <img src = "ProjectManagement/Sprint1Documents/2nd%20Sprint%20Pages/password_page.jpeg" width = 500, height= 800 >
+</p>  
 
 
 - **Sprint Planning**: 
