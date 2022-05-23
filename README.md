@@ -1,3 +1,5 @@
+**Asıl branch = master**
+
 # **Takım İsmi**
 
 Mentor Wise
