@@ -77,6 +77,37 @@ Alınan kararlar: Veritabanı oluşturması için açık kaynak araştırılmas�
 ---
 
 # Sprint 2
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir. Oyun içi, yükleme ve oyun sonu ekranları yapılacak.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 100 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz önem ve aciliyet sırasına göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. 
+
+Story'ler yapılacak işlere göre düzenlenmiştir. Trello'daki her görevin altında detaylı açıklaması bulunabilir. 
+
+- **Daily Scrum**: Herkesin ayrı yoğunluklarından dolayı ortak bir gün belirlenmiştir. Çarşamba akşamları genel bir gözden geçirme ve durumu değerlendirme toplantısı yapıldı. Developer ekibi cuma günleri kendi aralarında ek bir toplantı alıp gelişmeleri slack ve wp üzerinden bildirdiler. Trello kartlarında yapılan düzenlemelerle ürün takibi sağlandı. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/GameAndApplicationAcademy/YaBiKa_App/tree/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingsNotesSprint2)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/GameAndApplicationAcademy/YaBiKa_App/blob/main/ProjectManagement/Sprint2Documents/Backlog_1.jpg) 
+![Backlog 2](https://github.com/GameAndApplicationAcademy/YaBiKa_App/blob/main/ProjectManagement/Sprint2Documents/Backlog_2.jpg) 
+![Backlog 3](https://github.com/GameAndApplicationAcademy/YaBiKa_App/blob/main/ProjectManagement/Sprint2Documents/Backlog_3.jpg)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/GameAndApplicationAcademy/YaBiKa_App/blob/main/ProjectManagement/Sprint2Documents/Product_7.png)
+  ![Screenshot 2](https://github.com/GameAndApplicationAcademy/YaBiKa_App/blob/main/ProjectManagement/Sprint2Documents/Product_8.png)
+  ![Screenshot 3](https://github.com/GameAndApplicationAcademy/YaBiKa_App/blob/main/ProjectManagement/Sprint2Documents/Product_9.png)
+
+
+- **Sprint Review**: 
+Alınan kararlar: Arkadaş ekle ve davet et özellikleri reddedildi.
+
+- **Sprint Retrospective:**
+  - Görevlerin neredeyse hepsi tamamlandı ve koyulan hedeflere büyük ölçüde ulaşıldı. Görev dağılımında bir sıkıntı yaşanmadı, 
+  - Festival haftası olması nedeniyle bazı gecikmeler oldu. 
+  - Uygulama büyük oranda tamamlandı, firebase ile veri aktarımı ve tasarım noktasında geliştirmeler yapılacak.
+
 
  
 ---
