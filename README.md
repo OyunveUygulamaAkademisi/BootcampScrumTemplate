@@ -194,9 +194,9 @@ Neyi durdurmalıyız?
 
 - **Sprint board update**: Sprint board screenshotları: 
 
-	
-
-	
+<img src = "ProjectManagement/Sprint1Documents/2nd%20Sprint%20Pages/pbacklog1.png" >
+<img src = "ProjectManagement/Sprint1Documents/2nd%20Sprint%20Pages/pbacklog2.png">
+
 
 
 
