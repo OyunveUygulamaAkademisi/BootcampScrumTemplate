@@ -200,9 +200,9 @@ Neyi durdurmalıyız?
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
-	
+![welcomepage](https://github.com/bootcamp161/Team-161/blob/main/ProjectManagement/Sprint1Documents/2nd%20Sprint%20Pages/welcome_page.jpeg)
 
-	
+![generallogin](https://github.com/bootcamp161/Team-161/blob/main/ProjectManagement/Sprint1Documents/2nd%20Sprint%20Pages/general_login.jpeg)
 
 
 - **Sprint Planning**: 
