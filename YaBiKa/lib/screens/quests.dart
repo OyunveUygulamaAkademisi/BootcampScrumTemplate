@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 
 import 'lessons.dart';
@@ -13,19 +15,36 @@ class QuestionPage1 extends StatefulWidget {
 
 class _QuestionPage1State extends State<QuestionPage1> {
 
+  late Timer _timer;
+  int counter = 300;
+  void _startTimer(){
 
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text('1.Soru'),
-        actions: [
-          IconButton(onPressed: () {}, icon: Icon(Icons.question_mark))
-        ],
-      ),
-      body: Center(
-        child: Stack(
-          children: [
+    _timer = Timer.periodic(Duration(seconds: 1), (timer) {
+      setState(() {
+        if(counter>0) {
+          counter--;
+        }
+        else {
+          _timer.cancel();
+        }
+      });
+    });
+  }
+
+          @override
+          Widget build(BuildContext context) {
+            _startTimer();
+            return Scaffold(
+                appBar: AppBar(
+                title: Text('1.Soru'),
+            actions: [
+            IconButton(onPressed: () {}, icon: Icon(Icons.question_mark))
+            ],
+            ),
+            body: Center(
+            child: Stack(
+            children: [
+            Text("$counter"),
             Positioned(
               top: 10,
               left: 25,
