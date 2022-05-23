@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         // Scaffold AppBar
       appBar: AppBar(
-          title: Text('Dersler'),
+          title: Text('Anasayfa'),
           centerTitle: true,
           backgroundColor: Colors.blueGrey[900],
           actions: [
@@ -94,149 +94,31 @@ class MyApp extends StatelessWidget {
         // Scaffold Body
         body: Row(
           mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.center,
           // Icon is wrapped with 2 infinity sized box to be centered!
           children: [
-              // Left column
-              Column(
-                //
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  Container(
-                    // Padding around start icon
-                    padding: EdgeInsets.all(20),
-                    margin: EdgeInsets.only(bottom: 8),
-                    // Rounded corners and colors for background and border
-                    decoration: BoxDecoration(
-                      color: Colors.green,
-                        border: Border.all(
-                          color: Colors.black12,
-                        ),
-                        borderRadius: BorderRadius.circular(20),
-                    ),
-                    // Math icon button
-                    child: IconButton(
-                        iconSize: 100,
-                        onPressed: null,
-                        icon: Image(
-                          image: AssetImage('images/math_50x50.png'),
-                        )
-                    ),
+            SizedBox(height:double.infinity),
+            Container(
+              // Padding around start icon
+              padding: EdgeInsets.all(20),
+              // Rounded corners and colors for background and border
+              decoration: BoxDecoration(
+                color: Colors.blue,
+                  border: Border.all(
+                    color: Colors.purple,
                   ),
-                  Container(
-                    // Padding around start icon
-                    padding: EdgeInsets.all(20),
-                    margin: EdgeInsets.only(bottom: 8),
-                    // Rounded corners and colors for background and border
-                    decoration: BoxDecoration(
-                      color: Colors.deepPurple,
-                      border: Border.all(
-                        color: Colors.black12,
-                      ),
-                      borderRadius: BorderRadius.circular(20),
-                    ),
-                    // Science icon button
-                    child: IconButton(
-                        iconSize: 100,
-                        onPressed: null,
-                        icon: Image(
-                          image: AssetImage('images/science_64x64.png'),
-                        )
-                    ),
-                  ),
-                  Container(
-                    // Padding around start icon
-                    padding: EdgeInsets.all(20),
-                    margin: EdgeInsets.only(bottom: 8),
-                    // Rounded corners and colors for background and border
-                    decoration: BoxDecoration(
-                      color: Colors.purpleAccent[100],
-                      border: Border.all(
-                        color: Colors.black12,
-                      ),
-                      borderRadius: BorderRadius.circular(20),
-                    ),
-                    // English icon button
-                    child: IconButton(
-                        iconSize: 100,
-                        onPressed: null,
-                        icon: Image(
-                          image: AssetImage('images/english_50x50.png'),
-                        )
-                    ),
-                  ),
-                ],
+                  borderRadius: BorderRadius.circular(20),
               ),
-              // Column separator sized box
-              SizedBox(width: 8.0,),
-              // Right column
-              Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  Container(
-                    // Padding around start icon
-                    padding: EdgeInsets.all(20),
-                    margin: EdgeInsets.only(bottom: 8),
-                    // Rounded corners and colors for background and border
-                    decoration: BoxDecoration(
-                      color: Colors.redAccent[400],
-                      border: Border.all(
-                        color: Colors.black12,
-                      ),
-                      borderRadius: BorderRadius.circular(20),
-                    ),
-                    // Turkish icon button
-                    child: IconButton(
-                        iconSize: 100,
-                        onPressed: null,
-                        icon: Image(
-                          image: AssetImage('images/turkish_50x50.png'),
-                        )
-                    ),
-                  ),
-                  Container(
-                    // Padding around start icon
-                    padding: EdgeInsets.all(20),
-                    margin: EdgeInsets.only(bottom: 8),
-                    // Rounded corners and colors for background and border
-                    decoration: BoxDecoration(
-                      color: Colors.deepOrangeAccent[100],
-                      border: Border.all(
-                        color: Colors.black12,
-                      ),
-                      borderRadius: BorderRadius.circular(20),
-                    ),
-                    // Stich icon button
-                    child: IconButton(
-                        iconSize: 100,
-                        onPressed: null,
-                        icon: Image(
-                          image: AssetImage('images/geography_64x64.png'),
-                        )
-                    ),
-                  ),
-                  Container(
-                    // Padding around start icon
-                    padding: EdgeInsets.all(20),
-                    margin: EdgeInsets.only(bottom: 8),
-                    // Rounded corners and colors for background and border
-                    decoration: BoxDecoration(
-                      color: Colors.brown[200],
-                      border: Border.all(
-                        color: Colors.black12,
-                      ),
-                      borderRadius: BorderRadius.circular(20),
-                    ),
-                    // Stich icon button
-                    child: IconButton(
-                        iconSize: 100,
-                        onPressed: null,
-                        icon: Image(
-                          image: AssetImage('images/religion_64x64.png'),
-                        )
-                    ),
-                  ),
-                ],
+              // Stich icon button
+              child: IconButton(
+                  iconSize: 100,
+                  onPressed: null,
+                  icon: Image(
+                    image: AssetImage('images/stitch.png'),
+                  )
               ),
+            ),
+            SizedBox(height:double.infinity),
           ],
         ),
         // Scaffold Bottom Navigation Bar
