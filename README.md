@@ -184,7 +184,7 @@ Neyi durdurmalıyız?
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 285 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 500 puanlık backlog bulunmaktadır. 2. sprintin 285 puana tamamlanması gerektiğine karar verilmiştir.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 500 puanlık backlog bulunmaktadır. 2. sprintin 285 puana tamamlanması gerektiğine karar verilmiştir. Agile metodolojisi kullanılarak puan dağılımı yapılmıştır.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz user story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
