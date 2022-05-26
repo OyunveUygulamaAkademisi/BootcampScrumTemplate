@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(ChooseLessonPage());
 }
 
-class MyApp extends StatelessWidget {
+class ChooseLessonPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

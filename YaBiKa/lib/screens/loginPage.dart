@@ -1,5 +1,5 @@
-import 'package:bootcamp_project/screens/lessons.dart';
-import 'package:bootcamp_project/screens/register.dart';
+import 'package:yabika/screens/registerPage.dart';
+import 'package:yabika/screens/mainPage.dart';
 import 'package:flutter/material.dart';
 
 
@@ -118,8 +118,9 @@ class _LoginPageState extends State<LoginPage> {
                           child: ElevatedButton(
                             onPressed: () {
                               Navigator.push(
-                                  context,MaterialPageRoute(
-                                  builder: (context) => Lessons()
+                                context,
+                                MaterialPageRoute(
+                                  builder: (context) => MainPage()
                               ),
                               );
                             } ,
@@ -138,7 +139,8 @@ class _LoginPageState extends State<LoginPage> {
                           child: ElevatedButton(
                             onPressed: () {
                             Navigator.push(
-                              context, MaterialPageRoute(
+                              context,
+                              MaterialPageRoute(
                                 builder: (context) => RegisterPage()
                             ),
                             );

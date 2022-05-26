@@ -2,18 +2,18 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 
-import 'lessons.dart';
+import 'lessonsPage.dart';
 
-class QuestionPage1 extends StatefulWidget {
-  const QuestionPage1({Key? key}) : super(key: key);
+class QuestionPage extends StatefulWidget {
+  const QuestionPage({Key? key}) : super(key: key);
 
 
 
   @override
-  State<QuestionPage1> createState() => _QuestionPage1State();
+  State<QuestionPage> createState() => _QuestionPageState();
 }
 
-class _QuestionPage1State extends State<QuestionPage1> {
+class _QuestionPageState extends State<QuestionPage> {
 
   late Timer _timer;
   int counter = 300;

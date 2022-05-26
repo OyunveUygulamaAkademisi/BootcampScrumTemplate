@@ -1,16 +1,16 @@
-import 'package:bootcamp_project/screens/lessons.dart';
+import 'package:yabika/screens/lessonsPage.dart';
 import 'package:flutter/material.dart';
 
-void main() => runApp(ProfileScreen());
+void main() => runApp(ProfilePage());
 
-class ProfileScreen extends StatelessWidget {
+class ProfilePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Material App',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Profile Screen'),
+          title: Text('Profile Page'),
         ),
         body: Column(
           children: [

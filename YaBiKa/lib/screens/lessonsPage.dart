@@ -1,6 +1,6 @@
-import 'package:bootcamp_project/screens/login.dart';
-import 'package:bootcamp_project/screens/profile.dart';
-import 'package:bootcamp_project/screens/quests.dart';
+import 'package:yabika/screens/loginPage.dart';
+import 'package:yabika/screens/profilePage.dart';
+import 'package:yabika/screens/questsPage.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(Lessons());
@@ -23,7 +23,7 @@ class _LessonsState extends State<Lessons> {
 
     await ElevatedButton
       (onPressed: () {
-        Navigator.push(context, MaterialPageRoute(builder: (context)=> QuestionPage1()));
+        Navigator.push(context, MaterialPageRoute(builder: (context)=> QuestionPage()));
     },
       child: null,);
 
@@ -58,7 +58,7 @@ class _LessonsState extends State<Lessons> {
               ),
               const SizedBox(height: 20,),
               ElevatedButton(onPressed: () {
-                Navigator.push(context, MaterialPageRoute(builder: (context)=> const QuestionPage1()
+                Navigator.push(context, MaterialPageRoute(builder: (context)=> const QuestionPage()
                 )
                 );
               }, child: const Text('Questions')

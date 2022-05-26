@@ -1,5 +1,5 @@
-import 'package:bootcamp_project/screens/login.dart';
-import 'package:bootcamp_project/screens/register.dart';
+import 'package:yabika/screens/loginPage.dart';
+import 'package:yabika/screens/registerPage.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
