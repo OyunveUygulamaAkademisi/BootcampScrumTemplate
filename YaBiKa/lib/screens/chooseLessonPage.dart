@@ -239,23 +239,6 @@ class ChooseLessonPage extends StatelessWidget {
               ),
           ],
         ),
-        // Scaffold Bottom Navigation Bar
-        bottomNavigationBar: BottomNavigationBar(
-          backgroundColor: Colors.blueGrey[900],
-          unselectedItemColor: Colors.yellowAccent,
-          selectedItemColor: Colors.white,
-          type: BottomNavigationBarType.fixed,
-          items: const [
-          BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home Icon',
-          ),
-          BottomNavigationBarItem(icon: Icon(Icons.people_sharp), label: 'Friends Icon',
-          ),
-          BottomNavigationBarItem(icon: Icon(Icons.bar_chart), label: 'Statistics Icon',
-          ),
-          BottomNavigationBarItem(icon: Icon(Icons.person), label: 'Profile Icon',
-          ),
-          ],
-        ),
       ),
     );
   }

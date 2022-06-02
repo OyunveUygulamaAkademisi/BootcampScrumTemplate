@@ -50,14 +50,6 @@ class _LessonsState extends State<Lessons> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               ElevatedButton(onPressed: () {
-                Navigator.push(context, MaterialPageRoute(builder: (context)=> const LoginUI()
-                )
-                );
-              },
-              child: const Text('Profile Screen')
-              ),
-              const SizedBox(height: 20,),
-              ElevatedButton(onPressed: () {
                 Navigator.push(context, MaterialPageRoute(builder: (context)=> const QuestionPage()
                 )
                 );

@@ -2,8 +2,15 @@ import 'package:flutter/material.dart';
 
 
 void main() {
-  runApp(
-    MaterialApp(
+  runApp(EndGamePage());
+}
+
+class EndGamePage extends StatelessWidget {
+  const EndGamePage({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return  MaterialApp(
       title: 'Material App',
       home: Scaffold(
         appBar: AppBar(title: Text('')),
@@ -21,8 +28,12 @@ void main() {
                   mainAxisAlignment: MainAxisAlignment.spaceAround,
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
-                    RaisedButton(child: Text("3    Doğru  "), onPressed: () {}, color: Colors.green,),
-                    RaisedButton(child: Text("2    Yanlış   "), onPressed: () {}, color: Colors.red,),
+                    ElevatedButton(child: Text("3    Doğru  "), onPressed: () {}, style: ElevatedButton.styleFrom(
+                      primary: Colors.green
+                    ),),
+                    ElevatedButton(child: Text("2    Yanlış   "), onPressed: () {}, style: ElevatedButton.styleFrom(
+                      primary: Colors.red
+                    ),),
                   ],
                 ),
 
@@ -30,8 +41,8 @@ void main() {
                     mainAxisAlignment: MainAxisAlignment.center,
                     crossAxisAlignment: CrossAxisAlignment.end,
                     children: <Widget>[
-                      RaisedButton(child: Text("Tekrar Oyna"), onPressed: () {}),
-                      RaisedButton(child: Text("  Anasayfa   "), onPressed: () {}),
+                      ElevatedButton(child: Text("Tekrar Oyna"), onPressed: () {}),
+                      ElevatedButton(child: Text("  Anasayfa   "), onPressed: () {}),
                     ]
                 ),
               ],
@@ -39,6 +50,6 @@ void main() {
           ),
         ),
       ),
-    ),
-  );
+    );
+  }
 }

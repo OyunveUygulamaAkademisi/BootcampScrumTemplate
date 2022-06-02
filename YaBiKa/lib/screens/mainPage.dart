@@ -3,6 +3,7 @@ import 'package:yabika/screens/chooseLessonPage.dart';
 import 'package:yabika/screens/lessonsPage.dart';
 import 'package:yabika/screens/profilePage.dart';
 import 'package:yabika/screens/questsPage.dart';
+import 'package:yabika/tabNavigator.dart';
 
 void main() =>  runApp(MainPage());
 
@@ -12,22 +13,41 @@ class MainPage extends StatefulWidget {
 }
 
 class _MainPageState extends State<MainPage> {
-  int currentNavScreenIndex = 0;
+  int _currentNavScreenIndex = 0;
   int currentAppBarTitleIndex = 0;
 
   final bottomNavigationBarScreens = [
-    ChooseLessonPage(),
+    GetMainPageView(),
     Lessons(),
     QuestionPage(),
     ProfilePage(),
   ];
   final navigationBarAppBarTitles = [
-    'Dersler',
+    'Anasayfa',
     'Burası',
     'Sorular',
     'Profil'
   ];
 
+  /*
+  *
+  *  final Map<String,GlobalKey<NavigatorState>> _navigatorKeys = {
+    "Anasayfa": GlobalKey<NavigatorState>(),
+    'Burası': GlobalKey<NavigatorState>(),
+    'Sorular': GlobalKey<NavigatorState>(),
+    'Profil': GlobalKey<NavigatorState>(),
+  };
+  *
+  Widget _buildOffstageNavigator(String tabItem){
+    return Offstage(
+      offstage: _currentNavScreenIndex != tabItem,
+      child: TabNavigator(
+        navigatorKey: _navigatorKeys[tabItem]!,
+        tabItem: tabItem,
+      ),
+    );
+  }
+  * */
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -57,13 +77,24 @@ class _MainPageState extends State<MainPage> {
           ),
         ),
         // Scaffold Body
-        body: bottomNavigationBarScreens[currentNavScreenIndex],
+        /*
+        * Stack(
+          children: [
+            _buildOffstageNavigator("Anasayfa"),
+            _buildOffstageNavigator("Anasayfa"),
+            _buildOffstageNavigator("Anasayfa"),
+
+          ],
+        ),
+        * */
+        body: bottomNavigationBarScreens[_currentNavScreenIndex],
         // Scaffold Bottom Navigation Bar
         bottomNavigationBar: BottomNavigationBar(
           onTap: (index) => setState(() {
-            currentNavScreenIndex = index;
+            _currentNavScreenIndex = index;
             currentAppBarTitleIndex = index;
           }),
+          currentIndex: _currentNavScreenIndex,
           backgroundColor: Colors.blueGrey[900],
           unselectedItemColor: Colors.yellowAccent,
           selectedItemColor: Colors.white,
@@ -87,6 +118,57 @@ class _MainPageState extends State<MainPage> {
   }
 }
 
+
+class GetMainPageView extends StatelessWidget{
+  Widget getMainPageView(BuildContext context) {
+    var mainPageView = MaterialApp(
+      home: Scaffold(
+        body: Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.center,
+          // Icon is wrapped with 2 infinity sized box to be centered!
+          children: [
+            SizedBox(height:double.infinity),
+            Container(
+              // Padding around start icon
+              padding: EdgeInsets.all(20),
+              // Rounded corners and colors for background and border
+              decoration: BoxDecoration(
+                color: Colors.blue,
+                border: Border.all(
+                  color: Colors.purple,
+                ),
+                borderRadius: BorderRadius.circular(20),
+              ),
+              // Stich icon button
+              child: IconButton(
+                  iconSize: 100,
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => ChooseLessonPage()
+                      ),
+                    );
+                  },
+                  icon: Image(
+                    image: AssetImage('images/stitch.png'),
+                  )
+              ),
+            ),
+            SizedBox(height:double.infinity),
+          ],
+        ),
+      ),
+    );
+    return mainPageView;
+  }
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(body: getMainPageView(context));
+  }
+
+}
 class GetListView extends StatelessWidget {
   Widget getListView(BuildContext context) {
     var listView = ListView(
