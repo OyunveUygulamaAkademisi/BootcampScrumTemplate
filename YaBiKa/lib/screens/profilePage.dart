@@ -1,6 +1,8 @@
 import 'package:yabika/screens/lessonsPage.dart';
 import 'package:flutter/material.dart';
 
+import '../components/bottomNav.dart';
+
 void main() => runApp(ProfilePage());
 
 class ProfilePage extends StatelessWidget {
@@ -140,6 +142,7 @@ class ProfilePage extends StatelessWidget {
             ),
           ),
         ),
+        bottomNavigationBar: BottomNav(),
       )
     );
   }

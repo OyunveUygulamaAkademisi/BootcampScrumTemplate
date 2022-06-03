@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:yabika/components/bottomNav.dart';
 
 void main() {
   runApp(ChooseLessonPage());
@@ -25,72 +26,7 @@ class ChooseLessonPage extends StatelessWidget {
           )
           ],
         ),
-        // Scaffold Drawer
-        drawer: Drawer(
-          backgroundColor: Colors.blueGrey[900],
-          child: SafeArea(
-            child: ListView(
-              padding: EdgeInsets.zero,
-              children: <Widget>[
-                DrawerHeader(
-                  decoration: BoxDecoration(
-                    color: Colors.blueGrey[900],
-                  ),
-                  child: Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceAround,
-                    crossAxisAlignment: CrossAxisAlignment.center,
-                    children: [
-                      // Circle avatar can be used in this scenario but this approach more flexible
-                      Container(
-                        decoration: BoxDecoration(
-                          borderRadius: BorderRadius.circular(50),
-                          color: Colors.white
-                        ),
-                        child: Image(image: AssetImage('images/lilo_stitch_hug.png'),
-                          width: 100,
-                          height: 100,
 
-                          ),
-                      ),
-                      Text(
-                        'Lilo & Stitch',
-                        style: TextStyle(
-                          color: Colors.white,
-                          fontSize: 24,
-                        ),
-                      ),
-                    ],
-                  ),
-                ),
-                Column(
-                  children: [
-                    ListTile(
-                      textColor: Colors.white,
-                      leading: Icon(Icons.account_circle),
-                      iconColor: Colors.white,
-                      title: Center(child: Text('Profil')),
-                      onTap: null,
-                        ),
-                    ListTile(
-                      textColor: Colors.white,
-                      leading: Icon(Icons.people),
-                      iconColor: Colors.white,
-                      title: Center(child: Text('Arkadaşlar')),
-                      onTap: null,
-                    ),
-                    ListTile(
-                      textColor: Colors.white,
-                      leading: Icon(Icons.bar_chart),
-                      iconColor: Colors.white,
-                      title: Center(child: Text('Liderlik Tablosu')),
-                      onTap: null,
-                    ),
-                  ],
-                ),
-              ],
-            ),
-          ),
-        ),
         // Scaffold Body
         body: Row(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -239,6 +175,73 @@ class ChooseLessonPage extends StatelessWidget {
               ),
           ],
         ),
+        // Scaffold Drawer
+        drawer: Drawer(
+      backgroundColor: Colors.blueGrey[900],
+        child: SafeArea(
+          child: ListView(
+            padding: EdgeInsets.zero,
+            children: <Widget>[
+              DrawerHeader(
+                decoration: BoxDecoration(
+                  color: Colors.blueGrey[900],
+                ),
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceAround,
+                  crossAxisAlignment: CrossAxisAlignment.center,
+                  children: [
+                    // Circle avatar can be used in this scenario but this approach more flexible
+                    Container(
+                      decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(50),
+                          color: Colors.white
+                      ),
+                      child: Image(image: AssetImage('images/lilo_stitch_hug.png'),
+                        width: 100,
+                        height: 100,
+
+                      ),
+                    ),
+                    Text(
+                      'Lilo & Stitch',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 24,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              Column(
+                children: [
+                  ListTile(
+                    textColor: Colors.white,
+                    leading: Icon(Icons.account_circle),
+                    iconColor: Colors.white,
+                    title: Center(child: Text('Profil')),
+                    onTap: null,
+                  ),
+                  ListTile(
+                    textColor: Colors.white,
+                    leading: Icon(Icons.people),
+                    iconColor: Colors.white,
+                    title: Center(child: Text('Arkadaşlar')),
+                    onTap: null,
+                  ),
+                  ListTile(
+                    textColor: Colors.white,
+                    leading: Icon(Icons.bar_chart),
+                    iconColor: Colors.white,
+                    title: Center(child: Text('Liderlik Tablosu')),
+                    onTap: null,
+                  ),
+                ],
+              ),
+            ],
+          ),
+        ),
+      ),
+        bottomNavigationBar: BottomNav(),
       ),
     );
   }

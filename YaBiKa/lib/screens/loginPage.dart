@@ -115,13 +115,14 @@ class _LoginPageState extends State<LoginPage> {
                           height: 30.0,
                         ),
                         Center(
-                          child: ElevatedButton(
+                        // It navigates and deletes the history to prevent to go back login.
+                        child: ElevatedButton(
                             onPressed: () {
-                              Navigator.push(
+                              Navigator.pushAndRemoveUntil(
                                 context,
                                 MaterialPageRoute(
-                                  builder: (context) => MainPage()
-                              ),
+                                  builder: (BuildContext context) => MainPage()),
+                                  (Route<dynamic> route) => false,
                               );
                             } ,
                             child: const Text('Giriş yap'),
