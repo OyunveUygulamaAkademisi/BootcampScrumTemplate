@@ -343,6 +343,13 @@ Neyi durdurmalıyız?
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
+<p float="left">
+<img src = "ProjectManagement/Sprint1Documents/i1.png" width = 500, height= 800 > 
+<img src = "ProjectManagement/Sprint1Documents/i2.png" width = 500, height= 800 >
+  <img src = "ProjectManagement/Sprint1Documents/i3.png" width = 500, height= 800 >
+  <img src = "ProjectManagement/Sprint1Documents/i4.png" width = 500, height= 800 >
+  
+</p>  
 
 
 
