@@ -1,4 +1,4 @@
-**Asıl branch = master**
+**Asıl branch = final**
 
 # **Takım İsmi**
 
