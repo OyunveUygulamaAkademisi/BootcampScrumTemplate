@@ -335,9 +335,9 @@ Neyi durdurmalıyız?
 - **Sprint board update**: Sprint board screenshotları: 
 
 
-![Backlog 1](https://github.com/bootcamp161/Team-161/blob/5c04d43beeccc7e63e76b8a2dc140e77cd90e8a8/ProjectManagement/Sprint1Documents/p.backlog1.png)
-![Backlog 2](https://github.com/bootcamp161/Team-161/blob/5c04d43beeccc7e63e76b8a2dc140e77cd90e8a8/ProjectManagement/Sprint1Documents/p.backlog2.png)
-![Backlog 3](https://github.com/bootcamp161/Team-161/blob/5c04d43beeccc7e63e76b8a2dc140e77cd90e8a8/ProjectManagement/Sprint1Documents/p.backlog3.jpeg)
+![Backlog 1](ProjectManagement/Sprint1Documents/backlog1.jpeg)
+![Backlog 2](ProjectManagement/Sprint1Documents/backlog2.jpeg)
+![Backlog 3](ProjectManagement/Sprint1Documents/backlog3.png)
 
 
 
