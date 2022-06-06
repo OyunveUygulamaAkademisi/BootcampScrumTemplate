@@ -456,4 +456,8 @@ Neyi durdurmalıyız?
 
 -**Diğer Notlar**:
 
+[Johannes Milke](https://www.youtube.com/c/JohannesMilke) ve [Mitch Koko](https://www.youtube.com/c/MitchKoko) Youtube kanallarından birçok konuda yararlanılmıştır.
+
+
+
 ---
