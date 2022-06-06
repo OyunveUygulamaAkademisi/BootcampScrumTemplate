@@ -320,4 +320,131 @@ Neyi durdurmalıyız?
 
 # Sprint 3
 
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir. Yapılan çalışmalardaki ilerlemeler Drive içerisinde bulunan "Linkler" adlı dosyadan incelenebilir. Sprint ile ilgili tüm detaylar Drive linkindeki Scrum dosyasında belirtilmiştir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 115 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 500 puanlık backlog bulunmaktadır. 3. sprintin 115 puana tamamlanması gerektiğine karar verilmiştir. Agile metodolojisi kullanılarak puan dağılımı yapılmıştır.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz user story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp takım grubu üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf ve word olarak Drive linkindeki klasörde tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://drive.google.com/drive/u/7/folders/1OEkxZ2XEorg-6L4gIC3l8YJk5ghEjuTe)
+
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+
+
+
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+
+
+
+- **Sprint Planning**: 
+Sprint Planning toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum" dosyasında yer almaktadır.
+
+
+Alınan kararlar: 
+
+Bir önceki Sprint için yapılan retrospective toplantısı ile birlikte yeni Sprint için planning toplantısı yapıldı.
+
+ Yeni sprint içerisinde sürecin nasıl ilerleyeceği hakkında konuşuldu, kararlar alındı.
+
+ Sprintte yapılacak iş Sprint Planlama toplantısında planlandı. Tüm Scrum takımı planı birlikte oluşturuldu.
+
+ “Başlayan Sprintte Ürün Parçası olarak ne teslim edilebilir?” ve “Ürün Parçasını teslim etmek için gerekli olan iş nasıl başarılacak?” soruları üzerine konuşuldu.
+
+ Yapılan uygulamanın son hali incelendi.
+
+ Eksikler tespit edildi ve buna yönelik görev dağılımı yapıldı.
+
+
+
+Sprint Planning katılımcıları: Tüm Takım Üyeleri
+
+
+
+- **Sprint Review**: 
+Sprint Review toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum" dosyasında yer almaktadır.
+
+
+Alınan kararlar: 
+
+
+ Mentor bilgileri tamamlandı.
+
+ Değerlendirme toplantısı zamansal sebeplerden ötürü WhatsApp’tan yazılı görüşme ile yapıldı.
+
+ Anasayfa ve mentorlerin yer aldığı sayfalar tasarlandı.
+
+ Logo ve yazı fontu için fluttere uygun tasarım araştırmaları yapıldı.
+
+ Arayüz ve sayfa geçişlerinin nasıl olacağı hakkında konuşuldu.
+
+ Eklenecek ve çıkarılacak özellikler tespit edildi.
+
+
+
+
+Sprint Review katılımcıları: Tüm Takım Üyeleri
+
+
+
+
+
+- **Sprint Retrospective:**
+Sprint Retrospective toplantısı ayrıntıları Drive linki içerisindeki "Daily Scrum" dosyasında yer almaktadır.
+
+İşleri nasıl yapıyoruz?
+
+	Takımımız hafta başında toplanarak yapılması gereken görevleri gündeme getiriyor ve görevler için bir teslim tarihi belirliyor. Daha sonra scrum dosyasında belirtilen rollerine göre görevlerin ekip üyelerine atamasını gerçekleştiriryoruz, görevi tamamlayan ekip üyesi sonuçları ekip ile paylaşıyor. Scrum dosyaları ve trello sürekli olarak güncel tutularak sürecin verimli ilerlemesi sağlanıyor.
+
+
+
+
+Eksiğimiz var mı?
+
+	Uygulamamızda yer alan firebase tabanlı chat bölümü ile ilgili güncellemelere gittik, eğer daha fazla zamanımız olsaydı daha gelişmiş ve kapsamlı bir chat bölümü hazırlayabilirdik. Fonksiyonda eksik kalan adımlar oldu ama yine de kapsamı daraltıp o kısmı tamamladık.
+
+
+
+
+Doğru gidiyor muyuz?
+
+	Evet asistanlarımızla sürekli olarak iletişim halindeyiz onların onay ve önerileri doğrultusunda süreci ilerletiyoruz. 
+
+
+
+
+
+Neyi iyi yapıyoruz?
+
+	Takım olarak iletişim kanallarını aktif ve verimli kullanıyoruz, asistanımız ile sürekli iletişim halindeyiz. Takım içi aksaklıklar için hızlı önlemler alarak sorunların çözümü için toplantılar düzenliyoruz.
+
+
+
+Neyi kötü yapıyoruz?
+
+	Görevlerin tamamlanması bazen olması gereken uzun sürdü. Bu konuda daha iyi olabilirdik.  
+
+
+
+
+Neyi durdurmalıyız?
+
+	Başka projelerde, takım işlerinde görev tanımlarının keskin olamamasının önüne geçilmeli.
+
+
+
+
+  Sprint Retrospective katılımcıları: Tüm Takım Üyeleri
+
+
+
+-**Diğer Notlar**:
+
 ---
