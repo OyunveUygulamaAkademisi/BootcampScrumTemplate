@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971062089377",
+    "project_id": "yabika-271e7",
+    "storage_bucket": "yabika-271e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971062089377:android:05cec75db566be8a2742e0",
+        "android_client_info": {
+          "package_name": "com.example.yabika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971062089377-1kcgl49ivp8ielal7g6eeka6mhbo7q2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFeEbfeNe6KpbfdIXFsr6Ch-F8nnPbmx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971062089377-1kcgl49ivp8ielal7g6eeka6mhbo7q2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
