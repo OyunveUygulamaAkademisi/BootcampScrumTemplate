@@ -329,13 +329,15 @@ Neyi durdurmalıyız?
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz user story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp takım grubu üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf ve word olarak Drive linkindeki klasörde tarafımızdan paylaşılmaktadır: Sprint 3 Daily Scrum Chats(https://drive.google.com/drive/u/7/folders/1Us6VVKszqng4LhbdY3XcqJ7LzNjUjD7r)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp takım grubu üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf ve word olarak Drive linkindeki klasörde tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://drive.google.com/drive/u/7/folders/1Us6VVKszqng4LhbdY3XcqJ7LzNjUjD7r)
 
 
 - **Sprint board update**: Sprint board screenshotları: 
 
 
-
+![Backlog 1](https://github.com/bootcamp161/Team-161/blob/5c04d43beeccc7e63e76b8a2dc140e77cd90e8a8/ProjectManagement/Sprint1Documents/p.backlog1.png)
+![Backlog 2](https://github.com/bootcamp161/Team-161/blob/5c04d43beeccc7e63e76b8a2dc140e77cd90e8a8/ProjectManagement/Sprint1Documents/p.backlog2.png)
+![Backlog 3](https://github.com/bootcamp161/Team-161/blob/5c04d43beeccc7e63e76b8a2dc140e77cd90e8a8/ProjectManagement/Sprint1Documents/p.backlog3.jpeg)
 
 
 
